@@ -1,4 +1,4 @@
-# react-toast-message
+# use-toast-message
 A simple React hook for toast notifications
 
 import { useToast, Toast } from 'react-toast-message';

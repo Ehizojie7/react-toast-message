@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import { Toast, ToastType, UseToastReturn, ToastContainerProps } from './types';
+import { Toast, ToastType, UseToastReturn, ToastContainerProps } from './types.js';
 import './toast.css';
 
 const useToast = (): UseToastReturn => {

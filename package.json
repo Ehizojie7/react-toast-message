@@ -1,6 +1,6 @@
 {
   "name": "use-toast-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple React hook for toast notifications",
   "main": "index.js",
   "scripts": {

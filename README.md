@@ -1,7 +1,7 @@
-# react-toast-message
+# use-toast-message
 A simple React hook for toast notifications
 
-import { useToast, Toast } from 'react-toast-message';
+import { useToast, Toast } from 'use-toast-message';
 
 const MyComponent: React.FC = () => {
   const { toasts, showError, removeToast } = useToast();
